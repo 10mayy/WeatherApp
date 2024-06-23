@@ -11,7 +11,7 @@ To deploy this project run
 ```bash
   npm run dev
 ```
-[Project Image] (Screenshot 2024-06-23 004455.png)
+![Project Image](image.png)
 
 
 ## API Reference
